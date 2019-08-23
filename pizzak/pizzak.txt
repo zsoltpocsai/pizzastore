@@ -1,0 +1,12 @@
+Margaréta
+1300
+img/margareta.jpg
+Szalámis
+1450
+img/szalamis.jpg
+Kukoricás
+1200
+img/kukoricas.jpg
+Erős jános
+1450
+img/eros_janos.jpg
